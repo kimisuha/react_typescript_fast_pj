@@ -1,0 +1,66 @@
+{
+    "topbar": {
+        "logo": "https://cdn.vectorstock.com/i/1000x1000/13/78/news-tv-logo-design-template-vector-21881378.webp",
+        "nav": [
+            {
+                "label": "hotnews",
+                "href": ""
+            },
+            {
+                "label": "sport",
+                "href": ""
+            },
+            {
+                "label": "tech",
+                "href": ""
+            }
+        ]
+    },
+    "news": [
+        {
+            "title": "lisandro martinez, ông hoàng tuyến giữa - chúa tể tranh chấp - chú lùng hiếu chiến - người canh giữ miệng hang",
+            "image": "https://pbs.twimg.com/media/FayzRa1aAAAKoWC?format=jpg&name=small",
+            "views": 630,
+            "content": "manchester united trong phiên chợ hè vừa qua vừa kiếm được một con hàng rất là chất. Có thể nói anh là một con cọp giữa bầy cáo, một người bình thường giữa các nghệ sĩ nhân dân của chúng ta. Đã từ lâu rồi chúng ta ko được thấy một hậu vệ nghiêm túc như này trong đội hình của MU. Các caption harry, chó điên mctominay hay khứa tóc dài fred liên tục chọc vào mắt chúng ta mỗi tuần. Như có thể thấy trong đêm qua, martinez dễ dàng bỏ túi sala, đè lane firmino, cho diaz hiểu thế nào là nỗi đau và dí cái đầu b*ôi vào caption trên ghế dự bị. Vâng có thể nói với fan MU lúc này, haaland cũng chỉ là thằng DBRR. Hãy cùng xem a thể hiện thế nào trong các trận đấu tiếp theo ",
+            "catelogy": [
+                "hotnews",
+                "sport"
+            ],
+            "popup": false
+        },
+        {
+            "title": "dù vào sân muộn màng, anh vẫn biết cách ",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix13DgHNMSsOycCRmbyRk2xqne0BzqE8n_V15jymQaXbi5qryJk7Jpw1obysB0sBK8h7TWsQM4deR8Q4zM1tpGVFatFxx30jD0afV3-OhdoR2cS656MR-ywrgR_PIpFD2OZnIQB2HbzUA8HCaHQjQlpn-8C1pKU8d7POxy_QP5VpPvhDrj9q8QtA_nSA/s750/IMG-20220415-WA0025.jpg",
+            "views": 630,
+            "content": "MU, the king of underword, the lord of the cave and the master of humor",
+            "catelogy": [
+                "hotnews",
+                "sport"
+            ],
+            "popup": false
+        },
+        {
+            "title": "MU, ",
+            "image": "https://pbs.twimg.com/media/FayzRa1aAAAKoWC?format=jpg&name=small",
+            "views": 630,
+            "content": "MU, the king of underword, the lord of the cave and the master of humor",
+            "catelogy": [
+                "hotnews",
+                "sport"
+            ],
+            "popup": false
+        }
+    ],
+    "footer": {
+        "infomation": [
+            {
+                "title": "sdt",
+                "content": "0521005009"
+            },
+            {
+                "title": "email",
+                "content": "test@gmail.com"
+            }
+        ]
+    }
+}
